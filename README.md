@@ -1,3 +1,3 @@
 # React-Sample
 
-![screencapture](https://raw.githubusercontent.com/mmiller314/react-sample/master/readme-content/capture.jpg)
+![screencapture](https://github.com/mmiller314/react-sample/blob/master/readme-content/Capture.jpg?raw=true)
